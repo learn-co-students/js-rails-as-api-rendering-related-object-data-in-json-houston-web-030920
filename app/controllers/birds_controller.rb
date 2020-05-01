@@ -4,3 +4,7 @@ class BirdsController < ApplicationController
     render json: @birds
   end
 end
+
+def show 
+
+end
